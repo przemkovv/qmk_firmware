@@ -16,9 +16,9 @@
 #include QMK_KEYBOARD_H
 
 #define _BL 0
-#define _FL 1
-#define _CL 2
-#define _GM 3
+#define _FL 2
+#define _CL 3
+#define _GM 1
 
 #define ______I KC_NO
 
